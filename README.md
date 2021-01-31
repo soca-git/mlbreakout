@@ -18,13 +18,13 @@ python breakout.py --mode train/test
 
 ## NOTES
 
-> --- analytics
+> analytics:
 > Contains some spreadsheets with data from previous training run.
 
-> --- trained data
+> trained data:
 > Final weights, training log file and video clip of trained agent.
 
-> --- rl
+> rl:
 > Core classes and code for implementation.
 > - memory.py, callbacks.py, policy.py & util.py were slightly modified from original repo.
 > - models.py, processors.py are new
